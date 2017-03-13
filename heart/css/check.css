@@ -1,0 +1,57 @@
+body, html{
+			margin: 0px;
+			height: 100%;
+			width: 100%;
+			font-family: 'Roboto', sans-serif;
+            background: #ecf0f1;
+			color: #262626;
+		}
+.pay{
+	max-width: 450px;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	margin: auto;
+}
+
+.card {
+	background: #FFF;
+}
+
+.card-form {
+	padding: 25px;
+}
+
+.recover-wrapper {
+	max-width: 400px;
+}
+
+.card-header-form {
+	text-align: center;
+	font-size: 25px;
+}
+
+.card-block {
+	overflow: auto;
+}
+
+.home-wrapper {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	color:#FFF;
+	text-align: center;
+}
+.form-control[type="text"], .form-control[type="email"], .form-control[type="password"] {
+	padding: 10px;
+	font-size: 16px;
+}
+
+.contact{
+	color: #FFF;
+	text-align: center;
+}
+
+.contact a{
+	color: #FFF;
+}
