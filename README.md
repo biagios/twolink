@@ -1,5 +1,12 @@
 # TwoLink
-A website where you can create a personal page.
+Build your own responsive one-page sites.
   
-##The concept:
-TwoLink is simple. You log in using one of the ways of logging in and then you can start creating a web page   using our template where you can give links to your work, ways to contact you or simply your most used web pages. 
+## The concept:
+TwoLink is simple. You log in and start creating a responsive one-page sites used for pretty much anything. 
+
+## TwoLink uses:
+- [jQuery](https://jquery.com/)
+- [Awesome Font](https://fontawesome.io)
+- [Bootsrtap (4)](https://v4-alpha.getbootstrap.com)
+- PHP, CSS, HTML
+- TwoLink.js
