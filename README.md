@@ -7,6 +7,6 @@ TwoLink is simple. You log in and start creating a responsive one-page sites use
 ## TwoLink uses:
 - [jQuery](https://jquery.com/)
 - [Awesome Font](https://fontawesome.io)
-- [Bootsrtap (4)](https://v4-alpha.getbootstrap.com)
+- [Bootstrap (4)](https://v4-alpha.getbootstrap.com)
 - PHP, CSS, HTML
 - TwoLink.js
