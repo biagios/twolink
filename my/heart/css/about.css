@@ -1,0 +1,5 @@
+body, html{      margin: 0px;
+			height: 100%;
+			width: 100%;
+			font-family: 'Roboto', sans-serif;
+			background: #ecf0f1;			color: #262626;			overflow:hidden;		}/* Footer */footer {	 position: absolute;  right: 0;  bottom: 0;  left: 0;  padding: 1rem;color: #262626  text-align: center;}/* Footer message */.footer {position: absolute;right: 0;bottom: 0;left: 0;padding: 1rem;background-color: #efefef;text-align: center;}

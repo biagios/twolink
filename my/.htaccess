@@ -1,0 +1,17 @@
+ErrorDocument 404 /heart/errors/404.php
+ErrorDocument 400 /heart/errors/400.php
+ErrorDocument 402 /heart/errors/402.php
+ErrorDocument 500 /heart/errors/500.php
+ErrorDocument 403 /heart/errors/403.php
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.twolink.co.uk$ [NC]
+RewriteRule ^(.*)$ http://twolink.co.uk/$1 [R=301,L]
+
+
+
+order allow,deny
+deny from 81.21.76.62
+allow from all
+
+Options -Indexes
